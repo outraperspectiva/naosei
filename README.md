@@ -1,2 +1,2 @@
 # naosei
-este projeto trata de um exemplo
+este projeto trata de um exempl
